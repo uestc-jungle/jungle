@@ -9,6 +9,7 @@ module.exports = {
             { text: 'Training', link: '/training/' },
             { text: 'AC-Voyage', link: 'https://ac-voyage.github.io/' },
         ],
+        lastUpdated: 'Last Updated',
     },
 
     head: [

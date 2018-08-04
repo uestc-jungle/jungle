@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+  - "lts/*"
+
+install:
+  - yarn
+
+script:
+  - yarn build
+
+after_success:
+  - GITHUB_TOKEN=$GITHUB_TOKEN ./deploy.sh
+
+branches:
+  only:
+    - master

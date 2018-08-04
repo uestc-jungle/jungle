@@ -3,6 +3,13 @@ module.exports = {
     title: 'UESTC_Jungle',
     description: 'Welcome to `WRONG ANSWER` world.',
 
+    themeConfig: {
+        nav: [
+            { text: 'Home', link: '/' },
+            { text: 'Training', link: '/training/' },
+        ],
+    },
+
     head: [
         ['script', { type: 'text/javascript', src: 'https://cdn.bootcss.com/mathjax/2.7.4/latest.js', async: true }],
         //['link', { rel: 'stylesheet', href: 'https://cdn.bootcss.com/KaTeX/0.10.0-alpha/katex.min.css' }],

@@ -1,3 +1,3 @@
 # UESTC_Jungle
 
-Welcome to `wrong answer` world.
+Welcome to `WRONG ANSWER` world.

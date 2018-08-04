@@ -7,6 +7,7 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/' },
             { text: 'Training', link: '/training/' },
+            { text: 'AC-Voyage', link: 'https://ac-voyage.github.io/' },
         ],
     },
 

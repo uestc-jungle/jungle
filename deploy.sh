@@ -2,8 +2,6 @@
 
 set -e
 
-yarn build
-
 cd .vuepress
 
 git clone https://${GITHUB_TOKEN}github.com/uestc-jungle/uestc-jungle.github.io.git repo

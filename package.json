@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "vuepress": "^0.13.1"
+  },
+  "dependencies": {
+    "markdown-it-katex": "^2.0.3",
+    "markdown-it-mathjax": "^2.0.0"
   }
 }

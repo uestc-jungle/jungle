@@ -4,7 +4,7 @@ set -e
 
 cd .vuepress
 
-git clone https://${GITHUB_TOKEN}github.com/uestc-jungle/uestc-jungle.github.io.git repo
+git clone https://${GITHUB_TOKEN}@github.com/uestc-jungle/uestc-jungle.github.io.git repo
 
 cp -R dist/* repo
 

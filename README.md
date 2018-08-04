@@ -2,7 +2,7 @@
 
 Welcome to `WRONG ANSWER` world.
 
-```cpp{12}
+```cpp
 class ac_machine
 {
 public:

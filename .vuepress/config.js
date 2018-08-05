@@ -10,6 +10,11 @@ module.exports = {
             { text: 'Memos', link: '/memos/' },
             { text: 'AC-Voyage', link: 'https://ac-voyage.github.io/' },
         ],
+        sidebar: {
+            '/memos/': [
+                [ '/memos/todo' , 'TODO List' ],
+            ],
+        },
         lastUpdated: 'Last Updated',
     },
 

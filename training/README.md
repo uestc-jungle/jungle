@@ -1,6 +1,6 @@
 # UESTC_Jungle Training
 
-Inline equation: \\(a^2 = 1\\).
+Inline equation: \\(a^2 = 1\\). $\Delta = \sqrt{b^2-4ac}$.
 
 Test with
 

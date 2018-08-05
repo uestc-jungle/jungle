@@ -1,9 +1,10 @@
 {
   "scripts": {
-      "dev": "vuepress dev .",
-      "build": "vuepress build ."
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
   },
   "devDependencies": {
+    "markdown-it-task-lists": "^2.1.1",
     "vuepress": "^0.13.1"
   },
   "dependencies": {

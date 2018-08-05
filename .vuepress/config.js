@@ -28,6 +28,7 @@ module.exports = {
         lineNumbers: true,
         config: md => {
             md.use(require('markdown-it-mathjax')());
+            md.use(require('markdown-it-task-lists'));
             //md.use(require('markdown-it-katex'));
         },
     },

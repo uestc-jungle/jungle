@@ -1,4 +1,4 @@
-# UESTC_Jungle Training
+# Training
 
 <training-trending />
 

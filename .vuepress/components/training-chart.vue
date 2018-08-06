@@ -40,7 +40,7 @@ export default {
         {
           label: 'gold',
           backgroundColor: 'rgb(255, 255, 0)',
-          data: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1],
+          data: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1], //0.1, 0.1, 0.1, 0.1],
           pointRadius: 0,
           pointHoverRadius: 0,
         },

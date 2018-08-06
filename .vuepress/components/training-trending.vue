@@ -12,7 +12,7 @@ export default {
       const container = this.$refs['training-treding-container']
       const clientWidth = document.documentElement.clientWidth
 
-      const canvsWidth = Math.min(clientWidth, 740)
+      const canvsWidth = Math.min(clientWidth*0.8, 740)
 
       container.style.width = `${canvsWidth}px`
     }

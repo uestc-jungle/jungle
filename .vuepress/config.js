@@ -20,7 +20,7 @@ module.exports = {
 
     head: [
         //['script', { type: 'text/javascript', src: 'https://cdn.bootcss.com/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML', async: true }],
-        ['link', { rel: 'stylesheet', href: 'https://cdn.bootcss.com/KaTeX/0.9.0/katex.min.css' }],
+        ['link', { rel: 'stylesheet', href: 'https://cdn.bootcss.com/KaTeX/0.6.0/katex.min.css' }],
         //['link', { rel: 'stylesheet', href: 'https://cdn.bootcss.com/github-markdown-css/2.10.0/github-markdown.min.css' }],
     ],
 

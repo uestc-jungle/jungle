@@ -16,6 +16,8 @@ module.exports = {
             ],
         },
         lastUpdated: 'Last Updated',
+        repo: 'uestc-jungle/jungle',
+        editLinks: true,
     },
 
     head: [

@@ -15,8 +15,9 @@ export default {
       const clientWidth = document.documentElement.clientWidth
       const originalWidth = container.offsetWidth
 
-      container.style.width = `${clientWidth}px`
-      container.style.marginLeft = `${-(clientWidth - originalWidth) / 2}px`
+      // container.style.width = `${clientWidth}px`
+      container.style.maxWidth = `${clientWidth}px`
+      // container.style.marginLeft = `${-(clientWidth - originalWidth) / 2}px`
     }
   },
   mounted() {

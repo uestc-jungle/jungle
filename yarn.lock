@@ -3210,7 +3210,7 @@ js-tokens@^3.0.0, js-tokens@^3.0.2:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
 
-js-yaml@^3.11.0, js-yaml@^3.9.0:
+js-yaml@^3.11.0, js-yaml@^3.8.2, js-yaml@^3.9.0:
   version "3.12.0"
   resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.12.0.tgz#eaed656ec8344f10f527c6bfa1b6e2244de167d1"
   dependencies:
@@ -3583,6 +3583,10 @@ markdown-it-emoji@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/markdown-it-emoji/-/markdown-it-emoji-1.4.0.tgz#9bee0e9a990a963ba96df6980c4fddb05dfb4dcc"
 
+markdown-it-fence@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/markdown-it-fence/-/markdown-it-fence-0.0.2.tgz#ce1fe95900891603300d9da519aada144d5de9fc"
+
 markdown-it-katex@^2.0.3:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/markdown-it-katex/-/markdown-it-katex-2.0.3.tgz#d7b86a1aea0b9d6496fab4e7919a18fdef589c39"
@@ -3610,6 +3614,28 @@ markdown-it@^8.4.1:
     linkify-it "^2.0.0"
     mdurl "^1.0.1"
     uc.micro "^1.0.5"
+
+markvis-bar@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/markvis-bar/-/markvis-bar-0.0.9.tgz#7f685ef06bfd79beaf1e17a59dfe4474964cc939"
+
+markvis-line@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/markvis-line/-/markvis-line-0.0.6.tgz#8fecf8fe1b87d7fc798cae7c52d56cb3faabce8a"
+
+markvis-pie@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/markvis-pie/-/markvis-pie-0.0.6.tgz#9f463f0d4252c8f6bd6149e8198b23d9ea9db76b"
+
+markvis@^0.0.12:
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/markvis/-/markvis-0.0.12.tgz#84ca83bae3436e69e37b3455f2922a4af93a936f"
+  dependencies:
+    js-yaml "^3.8.2"
+    markdown-it-fence "^0.0.2"
+    markvis-bar "^0.0.9"
+    markvis-line "^0.0.6"
+    markvis-pie "^0.0.6"
 
 match-at@^0.1.0:
   version "0.1.1"

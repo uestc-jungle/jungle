@@ -1,6 +1,6 @@
 <template>
   <div class="breakout-container" ref="container" :style="{ display: ['-webkit-box', '-ms-flexbox', 'flex'] }">
-    <div class="breakout-content">
+    <div class="breakout-content" ref="content">
       <slot></slot>
     </div>
   </div>
@@ -12,11 +12,13 @@ export default {
   methods: {
     enhance() {
       const container = this.$refs.container
+      const content = this.$refs.content
       const clientWidth = document.documentElement.clientWidth
       const originalWidth = container.offsetWidth
 
       // container.style.width = `${clientWidth}px`
-      container.style.maxWidth = `${clientWidth}px`
+      // container.style.maxWidth = `${clientWidth}px`
+      content.style.maxWidth = `${clientWidth}px`
       // container.style.marginLeft = `${-(clientWidth - originalWidth) / 2}px`
     }
   },

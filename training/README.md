@@ -10,6 +10,9 @@ $$
 
 ... and other text.
 
+<breakout>
+  <training-chart />
+</breakout>
 
 <breakout>
 

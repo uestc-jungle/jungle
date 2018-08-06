@@ -10,6 +10,29 @@ $$
 
 ... and other text.
 
+```vis
+layout: line
+data: [
+  { key: 0, value: 76 },
+  { key: 1, value: 69 },
+  { key: 2, value: 46 },
+  { key: 3, value: 6 },
+  { key: 4, value: 14 },
+  { key: 5, value: 75 },
+  { key: 6, value: 23 },
+  { key: 7, value: 10 },
+  { key: 8, value: 24 },
+  { key: 9, value: 10 },
+  { key:10, value: 35 },
+  { key:11, value: 11 },
+  { key:12, value: 12 },
+  { key:13, value: 82 },
+  { key:14, value: 09 },
+  { key:15, value: 19 },
+  { key:16, value: 11 }，
+]
+```
+
 
 | Date      | Contest               | Place         | A | B | C | D | E | F | G | H | I | J | K | L | M |
 |:---------:|-----------------------| -------------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|

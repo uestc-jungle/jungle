@@ -38,7 +38,7 @@
 >
 > </div>
 
-Inline equation: \\(a^2 = 1\\). $\Delta = \sqrt{b^2-4ac}$.
+Inline equation: $\Delta = \sqrt{b^2-4ac}$.
 
 Test with
 

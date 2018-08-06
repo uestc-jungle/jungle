@@ -6,7 +6,7 @@ export default {
   name: 'training-chart',
   extends: Line,
   mounted() {
-    this.width = 768;
+    // this.width = 768;
     this.renderChart({
       labels: ['#01', '#02', '#03', '#04', '#05', '#06', '#07', '#08', '#09', '#10'],
       datasets: [

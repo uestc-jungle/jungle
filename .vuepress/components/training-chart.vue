@@ -54,7 +54,7 @@ export default {
       ],
     }, {
       responsive: true,
-      maintainAspectRatio: true,
+      maintainAspectRatio: false,
       title: { display: true, text: 'UESTC_Jungle Training Trending', fontSize: 16, position: 'bottom' },
     })
   }

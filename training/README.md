@@ -1,7 +1,9 @@
 # UESTC_Jungle Training
 
 <breakout>
+<div style="width:740px;">
   <training-chart />
+</div>
 </breakout>
 
 <breakout>

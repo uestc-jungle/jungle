@@ -29,7 +29,7 @@ data: [
   { key:13, value: 82 },
   { key:14, value: 09 },
   { key:15, value: 19 },
-  { key:16, value: 11 }，
+  { key:16, value: 11 },
 ]
 ```
 

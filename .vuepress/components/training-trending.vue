@@ -19,6 +19,10 @@ export default {
   },
   mounted() {
     this.enhance()
-  }
+    window.addEventListener('resize', this.enhance)
+  },
+  beforeDestroy: function () {
+    window.removeEventListener('resize', this.enhance)
+  },
 }
 </script>

@@ -33,8 +33,6 @@ module.exports = {
             md.use(require('markdown-it-katex'));
 
             md.use(require('markdown-it-task-lists'));
-            const d3node = require('d3-node');
-            md.use(require('markvis'), { d3node });
         },
     },
 };

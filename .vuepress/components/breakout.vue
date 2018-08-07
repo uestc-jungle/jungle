@@ -18,7 +18,7 @@ export default {
 
       // container.style.width = `${clientWidth}px`
       // container.style.maxWidth = `${clientWidth}px`
-      content.style.maxWidth = `${clientWidth}px`
+      content.style.maxWidth = `${clientWidth * 0.9}px`
       // container.style.marginLeft = `${-(clientWidth - originalWidth) / 2}px`
     }
   },

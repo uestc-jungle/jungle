@@ -34,7 +34,7 @@
 > * 🎈 Solved in contest
 > * 🔵 Solved after contest
 > * ❎ Attempted
-> * 💭 Unsolved
+> * 💭 Unopened
 > * 🎙 Solved by bb
 >
 > </div>

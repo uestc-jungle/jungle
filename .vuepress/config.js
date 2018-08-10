@@ -13,6 +13,7 @@ module.exports = {
         sidebar: {
             '/memos/': [
                 [ '/memos/todo' , 'TODO List' ],
+                [ '/memos/math' , 'Math' ],
             ],
         },
         lastUpdated: 'Last Updated',

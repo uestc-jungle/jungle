@@ -31,7 +31,7 @@ export default {
         {
           label: 'opentrains',
           backgroundColor: 'rgba(249, 122, 122, 0.16)',
-          data: [81./106, 37./54, 46./101, 91./122, 69./197, 34./292, 48./140, ],
+          data: [81./106, 37./54, 46./101, 91./122, 69./197, 34./292, 48./140, 71./169],
           pointBorderColor: 'rgba(255, 0, 0, 1)',
           pointRadius: 8,
           pointHoverRadius: 12,

@@ -43,13 +43,3 @@
 > * 🎙 Solved by bb
 >
 > </div>
-
-Inline equation: $\Delta = \sqrt{b^2-4ac}$.
-
-Test with
-
-$$
-S = \sum_{i=1}^k {a_i} + \int_a^b {f(x;\theta)\:\mathrm{d}x}
-$$
-
-... and other text.

@@ -8,12 +8,12 @@ export default {
   mounted() {
     // this.width = 768;
     this.renderChart({
-      labels: ['#01', '#02', '#03', '#04', '#05', '#06', '#07', '#08', ], // '#09', '#10'],
+      labels: ['#01', '#02', '#03', '#04', '#05', '#06', '#07', '#08', '#09', ],// '#10'],
       datasets: [
         {
           label: 'nowcoder',
           backgroundColor: 'rgba(70, 230, 167, 0.16)',
-          data: [48./744, 71./495, 121./513, 49./494, 48./528, 93./493, 155./451, 39./457, ],
+          data: [48./744, 71./495, 121./513, 49./494, 48./528, 93./493, 155./451, 39./457, 58./340],
           pointBorderColor: 'rgba(0, 145, 84, 1)',
           pointRadius: 8,
           pointHoverRadius: 12,
@@ -40,7 +40,7 @@ export default {
         {
           label: 'gold',
           backgroundColor: 'rgb(255, 255, 0)',
-          data: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, ], // 0.1, 0.1],
+          data: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, ], // 0.1],
           pointRadius: 0,
           pointHoverRadius: 0,
         },

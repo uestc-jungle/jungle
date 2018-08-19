@@ -642,6 +642,12 @@
     lodash "^4.17.5"
     to-fast-properties "^2.0.0"
 
+"@iktakahiro/markdown-it-katex@^3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@iktakahiro/markdown-it-katex/-/markdown-it-katex-3.0.3.tgz#910287d8365c99ea857c9c45877bd97304296607"
+  dependencies:
+    katex "^0.9.0"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
@@ -3284,6 +3290,12 @@ katex@^0.6.0:
   dependencies:
     match-at "^0.1.0"
 
+katex@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/katex/-/katex-0.9.0.tgz#26a7d082c21d53725422d2d71da9b2d8455fbd4a"
+  dependencies:
+    match-at "^0.1.1"
+
 keygrip@~1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/keygrip/-/keygrip-1.0.2.tgz#ad3297c557069dea8bcfe7a4fa491b75c5ddeb91"
@@ -3635,7 +3647,7 @@ markdown-it@^8.4.1:
     mdurl "^1.0.1"
     uc.micro "^1.0.5"
 
-match-at@^0.1.0:
+match-at@^0.1.0, match-at@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/match-at/-/match-at-0.1.1.tgz#25d040d291777704d5e6556bbb79230ec2de0540"
 

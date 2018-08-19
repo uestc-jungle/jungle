@@ -26,7 +26,7 @@ $$g(d,l) = \binom{c_d}{l}$$
 
 记
 $$\phi(d) = \sum_{l = 1}^{\min\{c_d,|S|\}}{h(l)g(d,l)}$$
-则`gcd`为 $d$ 的集合的数量为
+则`gcd`为 $d$ 的集合的贡献为
 $$\Phi(d) = \phi(d) - \sum_{t | (K / d)}\Phi(t)$$
 
 容斥一波就可以搞出来了

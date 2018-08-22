@@ -22,7 +22,7 @@ export default {
         {
           label: 'multi-univ',
           backgroundColor: 'rgba(82, 130, 224, 0.16)',
-          data: [180./770, 78./821, 86./815, 658./802, 78./704, 295./718, 71./816, 127./730, ],
+          data: [180./770, 78./821, 86./815, 658./802, 78./704, 295./718, 71./816, 127./730, 27./761],
           pointBorderColor: 'rgba(0, 86, 255, 1)',
           pointRadius: 8,
           pointHoverRadius: 12,

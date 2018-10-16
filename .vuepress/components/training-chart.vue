@@ -11,6 +11,15 @@ export default {
       labels: ['#01', '#02', '#03', '#04', '#05', '#06', '#07', '#08', '#09', '#10'],
       datasets: [
         {
+          label: 'jtraining',
+          backgroundColor: 'rgba(0, 0, 0, 0.05)',
+          pointBorderColor: 'rgba(0, 0, 0, 1)',
+          pointRadius: 8,
+          pointHoverRadius: 12,
+          pointStyle: 'crossRot',
+          data: [20./200., 78./191, 26./1073, 4./49, 55./188, 6./265, 17./81, 63./329, 23./197],
+        },
+        /* {
           label: 'nowcoder',
           backgroundColor: 'rgba(70, 230, 167, 0.16)',
           data: [48./744, 71./495, 121./513, 49./494, 48./528, 93./493, 155./451, 39./457, 58./340, 67./418],
@@ -36,7 +45,7 @@ export default {
           pointRadius: 8,
           pointHoverRadius: 12,
           pointStyle: 'crossRot',
-        },
+        }, */
         {
           label: 'gold',
           backgroundColor: 'rgb(255, 255, 0)',

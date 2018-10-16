@@ -6,6 +6,15 @@
 
 | Date      | Contest               | Place         | A | B | C | D | E | F | G | H | I | J | K | L | M |
 |:---------:|-----------------------| -------------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|2018-10-16 | The 2017 ACM-ICPC Asia Beijing Regional Contest | 23 / 197 |💭|💭|💭|💭|🎈|🎈|🎈|🎈|💭|🎈|
+|2018-10-15 | 2017-2018 ACM-ICPC Asia East Continent League Final (ECL-Final 2017) | 63 / 329 |🎈|🎈|🎈|🔵|💭|💭|💭|🔵|💭|🎈|🎈|🎈|🎈|
+|2018-10-13 | 2017 ACM ICPC Asia Hua-Lien Regional | 17 / 81 |🎈|🎈|🎈|🎈|🎈|💭|💭|🎈|🎈|💭|🎈|💭|🔵|
+|2018-10-12 | 2014-2015 ACM-ICPC, Asia Xian Regional Contest | 6 / 265 |🎈|💭|🎈|💭|💭|🎈|🎈|🔵|🎈|💭|🎈|
+|2018-10-11 | 2016 CCPC Hangzhou Onsite | 55 / 188 |🎈|🎈|🎈|🔵|🔵|🎈|💭|💭|💭|💭|🎈|
+|2018-10-10 | ACM International Collegiate Programming Contest, Tishreen Collegiate Programming Contest (2017) | 4 / 49 |🎈|🔵|🎈|🚀|💭|🎈|🔵|🎈|🔵|🎈|🚀|🔵|
+|2018-10-09 | 2018-2019 ACM-ICPC Brazil Subregional Programming Contest | 26 / 1073 |💭|🔵|🎈|🎈|🎈|🎈|🎈|💭|🎈|❎|💭|🎈|💭|
+|2018-10-08 | The 2017 China Collegiate Programming Contest, Hangzhou Site | 78 / 191 |🎈|🎈|🎈|🎈|💭|💭|💭|💭|💭|🎈|🔵|💭|
+|2018-10-06 | The 2016 ACM-ICPC Asia Beijing Regional Contest | 20 / 200 |💭|💭|💭|🎈|🎈|🎈|💭|💭|🎈|💭|🎈|
 |2018-08-23 | XVII Open Cup named after E.V. Pankratiev. Grand Prix of Siberia. | 79 / 180 |🎈|🎈|💭|🎈|🔵|❎|💭|🎈|🎈|💭|🎈|
 |2018-08-22 | 2018 Multi-University Training Contest 10 | 27 / 761 |🎈|💭|💭|🎈|🎈|💭|🎈|🎈|🎈|🎈|💭|🎈|
 |2018-08-20 | 2018 Multi-University Training Contest 9 | 127 / 730 |🎈|💭|💭|🎈|💭|💭|💭|💭|💭|❎|🎈|

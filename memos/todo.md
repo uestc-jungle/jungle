@@ -30,7 +30,7 @@
     - [x] 快速沃尔什变换
     - [x] 线性递推 `Berlekamp-Massey`
     - [ ] 类欧几里得
-    - [ ] Lucas
+    - [x] Lucas
 
 - 动态规划
     - [ ] 插头 `dp`

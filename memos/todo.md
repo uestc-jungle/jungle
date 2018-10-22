@@ -28,8 +28,9 @@
 - 数学
     - [ ] 莫比乌斯反演
     - [x] 快速沃尔什变换
-    - [ ] 线性递推 `Berlekamp-Massey`
+    - [x] 线性递推 `Berlekamp-Massey`
     - [ ] 类欧几里得
+    - [x] Lucas
 
 - 动态规划
     - [ ] 插头 `dp`

@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@iktakahiro/markdown-it-katex": "^3.0.3",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "markdown-it-katex": "^2.0.3",
     "markdown-it-mathjax": "^2.0.0",
     "vue-chartjs": "^3.4.0"
